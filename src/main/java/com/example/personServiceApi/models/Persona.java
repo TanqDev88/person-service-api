@@ -1,4 +1,4 @@
-package com.example.person_service_api.models;
+package com.example.personServiceApi.models;
 
 public class Persona {
     private  long id;

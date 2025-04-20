@@ -1,4 +1,4 @@
-package com.example.person_service_api;
+package com.example.personServiceApi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

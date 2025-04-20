@@ -1,4 +1,4 @@
-package com.example.person_service_api;
+package com.example.personServiceApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
